@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZawMZgU9PpyVPnvvMvEo4bPPpywU8vvdEmUbWLW00lNOZ2ZoWe+k7UwhdoLmyWA5cdpUxHCjl53hhM85g3uHUg==",
+  "dgSpecHash": "d+cbedeSVTXlpFMaq7+5GMzFchqhbfcbjhANHi0VPcjc8K1HLRNIiAn6FdCXGX/2ihVHpbhFLCnP0tWj+kC2BQ==",
   "success": true,
-  "projectFilePath": "E:\\Clone\\CloneGitS6\\web\\web\\web.csproj",
+  "projectFilePath": "C:\\Users\\rankl\\OneDrive\\Tài liệu\\BTGit\\web\\web\\web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rankl\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\rankl\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

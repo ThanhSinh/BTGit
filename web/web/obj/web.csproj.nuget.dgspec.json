@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Clone\\CloneGitS6\\web\\web\\web.csproj": {}
+    "C:\\Users\\rankl\\OneDrive\\Tài liệu\\BTGit\\web\\web\\web.csproj": {}
   },
   "projects": {
-    "E:\\Clone\\CloneGitS6\\web\\web\\web.csproj": {
+    "C:\\Users\\rankl\\OneDrive\\Tài liệu\\BTGit\\web\\web\\web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Clone\\CloneGitS6\\web\\web\\web.csproj",
+        "projectUniqueName": "C:\\Users\\rankl\\OneDrive\\Tài liệu\\BTGit\\web\\web\\web.csproj",
         "projectName": "web",
-        "projectPath": "E:\\Clone\\CloneGitS6\\web\\web\\web.csproj",
+        "projectPath": "C:\\Users\\rankl\\OneDrive\\Tài liệu\\BTGit\\web\\web\\web.csproj",
         "packagesPath": "C:\\Users\\rankl\\.nuget\\packages\\",
-        "outputPath": "E:\\Clone\\CloneGitS6\\web\\web\\obj\\",
+        "outputPath": "C:\\Users\\rankl\\OneDrive\\Tài liệu\\BTGit\\web\\web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rankl\\AppData\\Roaming\\NuGet\\NuGet.Config",
